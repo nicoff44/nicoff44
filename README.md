@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Nicolas
+### Hi there 👋, I'm Nicolas :fr:
 
-Connect with me :
-:linkedin:
+Connect with me:
+[Linkedin](https://www.linkedin.com/in/nicolas-ruff/)
 
 
 - 🔭 I’m currently working on ...

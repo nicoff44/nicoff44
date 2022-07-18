@@ -1,7 +1,5 @@
-### Hi there 👋, I'm Nicolas
-
-Some dude who's enthusiastic about his new job as a web developer !!
-
+<h2 align="center">Hi there 👋, I'm Nicolas</h2>
+<h3>Some dude who's enthusiastic about his new job as a web developer !</h3>
 <h3 align="left">Connect with me:</h3>
 
 [![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/101421234/178576526-eaa2d840-a7c0-4a9b-8556-6a4be827e6a8.png)](https://www.linkedin.com/in/nicolas-ruff/)
